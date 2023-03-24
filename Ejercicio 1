@@ -1,0 +1,26 @@
+public class Main {
+
+    public static Int suma(Int numero1, Int numero2, Int numero3){
+        Int suma = numero1 + numero2 + numero3;
+
+        return suma;
+    }
+
+    Int s = suma(1, 2, 3);
+}
+
+public class Main {
+
+    Coche miCoche = new Coche();
+    miCoche.agregarPuerta();
+
+    System.out.println(miCoche.puertas);
+}
+public class Coche{
+
+    Int puertas = 0;
+
+    public void agregarPuerta() {
+        puertas = puertas + 1;
+
+    }
