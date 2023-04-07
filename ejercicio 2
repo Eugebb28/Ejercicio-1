@@ -1,0 +1,71 @@
+public class Main {
+  public static void main (Strings [] args) {
+    if(numeroif>0) {
+         return "positivo";
+      } else if (numeroif<0) {
+         return "negativo";
+      } else {
+         return "cero";
+          }
+         }
+      }
+      
+public class Main {
+  public static void main (Strings [] args) {
+  
+      while (numeroWhile<3) {
+          numeroWhile = numeroWhile +1;
+            system.out.println (numeroWhile) 
+            }
+          }
+        }
+        
+ public class Main {
+  public static void main (Strings [] args) {
+  
+     do {
+        system.out.println (numeroDoWhile) 
+         numeroDoWhile = numeroDoWhile +1;
+  
+     } while (numeroWhile<3);
+       *break;
+            
+          }
+        }
+        
+              
+public class Main {
+  public static void main (Strings [] args) {
+  
+       var estacion = "verano";
+     Switch(estacion) {
+         case "verano":
+            system.out.printl ("es verano");
+        *break;
+        
+         var estacion = "otoño";
+     Switch(estacion) {
+         case "verano":
+            system.out.printl ("es otoño");
+        *break;
+        
+         var estacion = "invierno";
+     Switch(estacion) {
+         case "verano":
+            system.out.printl ("es invierno");
+        *break;
+        
+         var estacion = "primavera";
+     Switch(estacion) {
+         case "verano":
+            system.out.printl ("es primavera");
+        *break;
+        
+        default:
+            system.out.println (estacion);
+            
+           }
+         }
+       }
+       
+        
